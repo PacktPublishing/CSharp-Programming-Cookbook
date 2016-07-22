@@ -13,7 +13,7 @@ If you cannot find the KB2919355 update installed on your computer, you can chec
 
 If you get an error such "A project with an output type of class library cannot be started directly.In order to debug this project, add an executable project to this solution which references the library project. Set the executable project as the startup project" then in that case you should go to the Project in the solution explorer and right click on the projects and change the startup project to the project we are using as a console application.
 
-Related C# books and videos
+Related C# books
 
 [C# 6 and .NET Core 1.0: Modern Cross-Platform Development [Book] ] (https://www.packtpub.com/application-development/c-6-and-net-core-10?utm_source=Github&utm_medium=Repository&utm_campaign=9781785285691)
 
