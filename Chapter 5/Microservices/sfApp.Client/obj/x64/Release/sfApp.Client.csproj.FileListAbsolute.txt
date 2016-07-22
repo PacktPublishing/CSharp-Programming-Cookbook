@@ -1,0 +1,11 @@
+C:\z\sourcecode\C# Cookbook\Microservices\sfApp.Client\bin\x64\Release\sfApp.Client.exe.config
+C:\z\sourcecode\C# Cookbook\Microservices\sfApp.Client\bin\x64\Release\sfApp.Client.exe
+C:\z\sourcecode\C# Cookbook\Microservices\sfApp.Client\bin\x64\Release\sfApp.Client.pdb
+C:\z\sourcecode\C# Cookbook\Microservices\sfApp.Client\bin\x64\Release\Microsoft.ServiceFabric.Actors.dll
+C:\z\sourcecode\C# Cookbook\Microservices\sfApp.Client\bin\x64\Release\UtilitiesActor.Interfaces.dll
+C:\z\sourcecode\C# Cookbook\Microservices\sfApp.Client\bin\x64\Release\ServiceFabricServiceModel.dll
+C:\z\sourcecode\C# Cookbook\Microservices\sfApp.Client\bin\x64\Release\UtilitiesActor.Interfaces.pdb
+C:\z\sourcecode\C# Cookbook\Microservices\sfApp.Client\bin\x64\Release\Microsoft.ServiceFabric.Actors.xml
+C:\z\sourcecode\C# Cookbook\Microservices\sfApp.Client\obj\x64\Release\sfApp.Client.csprojResolveAssemblyReference.cache
+C:\z\sourcecode\C# Cookbook\Microservices\sfApp.Client\obj\x64\Release\sfApp.Client.exe
+C:\z\sourcecode\C# Cookbook\Microservices\sfApp.Client\obj\x64\Release\sfApp.Client.pdb

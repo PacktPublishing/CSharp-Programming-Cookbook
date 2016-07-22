@@ -1,0 +1,6 @@
+C:\z\sourcecode\C# Cookbook\Chapter8\bin\Debug\Chapter8.dll
+C:\z\sourcecode\C# Cookbook\Chapter8\bin\Debug\Chapter8.pdb
+C:\z\sourcecode\C# Cookbook\Chapter8\obj\Debug\Chapter8.csprojResolveAssemblyReference.cache
+C:\z\sourcecode\C# Cookbook\Chapter8\obj\Debug\Chapter8.rewritten
+C:\z\sourcecode\C# Cookbook\Chapter8\obj\Debug\Chapter8.dll
+C:\z\sourcecode\C# Cookbook\Chapter8\obj\Debug\Chapter8.pdb

@@ -1,0 +1,5 @@
+C:\z\[]sc 2015\C# Cookbook\Chapter2\bin\Debug\Chapter2.dll
+C:\z\[]sc 2015\C# Cookbook\Chapter2\bin\Debug\Chapter2.pdb
+C:\z\[]sc 2015\C# Cookbook\Chapter2\obj\Debug\Chapter2.dll
+C:\z\[]sc 2015\C# Cookbook\Chapter2\obj\Debug\Chapter2.pdb
+C:\z\[]sc 2015\C# Cookbook\Chapter2\obj\Debug\Chapter2.csprojResolveAssemblyReference.cache

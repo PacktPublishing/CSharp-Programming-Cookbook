@@ -1,0 +1,11 @@
+C:\z\[]sc 2015\C# Cookbook\winformAsync\bin\Debug\winformAsync.exe.config
+C:\z\[]sc 2015\C# Cookbook\winformAsync\bin\Debug\winformAsync.exe
+C:\z\[]sc 2015\C# Cookbook\winformAsync\bin\Debug\winformAsync.pdb
+C:\z\[]sc 2015\C# Cookbook\winformAsync\bin\Debug\Chapter4.dll
+C:\z\[]sc 2015\C# Cookbook\winformAsync\bin\Debug\Chapter4.pdb
+C:\z\[]sc 2015\C# Cookbook\winformAsync\obj\Debug\winformAsync.csprojResolveAssemblyReference.cache
+C:\z\[]sc 2015\C# Cookbook\winformAsync\obj\Debug\winformAsync.Form1.resources
+C:\z\[]sc 2015\C# Cookbook\winformAsync\obj\Debug\winformAsync.Properties.Resources.resources
+C:\z\[]sc 2015\C# Cookbook\winformAsync\obj\Debug\winformAsync.csproj.GenerateResource.Cache
+C:\z\[]sc 2015\C# Cookbook\winformAsync\obj\Debug\winformAsync.exe
+C:\z\[]sc 2015\C# Cookbook\winformAsync\obj\Debug\winformAsync.pdb

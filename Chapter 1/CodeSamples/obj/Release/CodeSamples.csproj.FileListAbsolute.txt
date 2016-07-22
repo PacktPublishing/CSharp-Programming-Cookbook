@@ -1,0 +1,8 @@
+C:\z\[]sc 2015\C# Cookbook\CodeSamples\bin\Release\CodeSamples.exe.config
+C:\z\[]sc 2015\C# Cookbook\CodeSamples\bin\Release\CodeSamples.exe
+C:\z\[]sc 2015\C# Cookbook\CodeSamples\bin\Release\CodeSamples.pdb
+C:\z\[]sc 2015\C# Cookbook\CodeSamples\bin\Release\Chapter1.dll
+C:\z\[]sc 2015\C# Cookbook\CodeSamples\bin\Release\Chapter1.pdb
+C:\z\[]sc 2015\C# Cookbook\CodeSamples\obj\Release\CodeSamples.csprojResolveAssemblyReference.cache
+C:\z\[]sc 2015\C# Cookbook\CodeSamples\obj\Release\CodeSamples.exe
+C:\z\[]sc 2015\C# Cookbook\CodeSamples\obj\Release\CodeSamples.pdb

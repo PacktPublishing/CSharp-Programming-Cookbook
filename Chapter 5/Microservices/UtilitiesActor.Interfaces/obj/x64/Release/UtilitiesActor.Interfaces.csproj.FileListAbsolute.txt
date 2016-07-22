@@ -1,0 +1,16 @@
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\bin\x64\Release\UtilitiesActor.Interfaces.dll
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\bin\x64\Release\UtilitiesActor.Interfaces.pdb
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\bin\x64\Release\Microsoft.ServiceFabric.Actors.dll
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\bin\x64\Release\Microsoft.ServiceFabric.Data.dll
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\bin\x64\Release\Microsoft.ServiceFabric.Internal.dll
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\bin\x64\Release\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\bin\x64\Release\Microsoft.ServiceFabric.Services.dll
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\bin\x64\Release\System.Fabric.dll
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\bin\x64\Release\ServiceFabricServiceModel.dll
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\bin\x64\Release\Microsoft.ServiceFabric.Actors.xml
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\bin\x64\Release\Microsoft.ServiceFabric.Data.xml
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\bin\x64\Release\Microsoft.ServiceFabric.Services.xml
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\bin\x64\Release\System.Fabric.xml
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\bin\x64\Release\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\obj\x64\Release\UtilitiesActor.Interfaces.dll
+C:\z\sourcecode\C# Cookbook\Microservices\UtilitiesActor.Interfaces\obj\x64\Release\UtilitiesActor.Interfaces.pdb
