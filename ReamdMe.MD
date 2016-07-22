@@ -1,3 +1,9 @@
+You can read more a C# Programming Cookbook [https://www.packtpub.com/application-development/c-programming-cookbook?utm_source=Github&utm_medium=Repository&utm_campaign=9781786467300]
+
+
+
+## Instructions
+
 Chapter no 10,11 and 13 does not contain any code files.
 
 The installation of Visual Studio 2015 on Windows 8.1 or Windows Server 2012 R2 fails when you do not install the update KB 2919355 Windows RT 8.1, Windows 8.1, and Windows Server 2012 R2 update: April 2014. 
