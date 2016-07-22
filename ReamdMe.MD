@@ -20,4 +20,4 @@ Related C# books and videos
 [C# Multithreaded and Parallel Programming [Book] ]
 (https://www.packtpub.com/application-development/c-multithreaded-and-parallel-programming?utm_source=Github&utm_medium=Repository&utm_campaign=9781849688321)
 
-[Xamarin Studio for Android Programming: A C# Cookbook[Book]] (https://www.packtpub.com/application-development/xamarin-studio-android-programming-c-cookbook?utm_source=Github&utm_medium=Repository&utm_campaign=9781849691406)
+[Xamarin Studio for Android Programming: A C# Cookbook [Book]] (https://www.packtpub.com/application-development/xamarin-studio-android-programming-c-cookbook?utm_source=Github&utm_medium=Repository&utm_campaign=9781849691406)
